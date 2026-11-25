@@ -249,11 +249,15 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source: "@quartz-themes/core"
-    enabled: false
+  - source:
+      name: quartz-themes
+      repo: "https://github.com/saberzero1/quartz-themes.git"
+      subdir: plugin
+    enabled: true
     options:
-      theme: Cupertino
+      theme: tokyo-night
       mode: both
+      calloutStyle: glass
 layout:
   groups:
     toolbar:
