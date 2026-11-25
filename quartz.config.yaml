@@ -249,6 +249,10 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: "@quartz-themes/core"
+    options:
+      theme: "cupertino"
+      mode: "both"
 layout:
   groups:
     toolbar:

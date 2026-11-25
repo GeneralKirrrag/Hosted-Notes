@@ -1,7 +1,6 @@
 ---
-title: Example Title
+title: Test Note
 draft: false
-tags: 
-- example-tag
+tags:
 ---
 Hopefully this works!!
