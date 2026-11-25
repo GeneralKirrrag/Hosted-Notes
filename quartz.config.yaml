@@ -250,9 +250,10 @@ plugins:
       exportPadding: 20
     order: 50
   - source: "@quartz-themes/core"
+    enabled: true
     options:
-      theme: "cupertino"
-      mode: "both"
+      theme: Cupertino
+      mode: both
 layout:
   groups:
     toolbar:
