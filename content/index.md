@@ -2,7 +2,7 @@
 publish: true
 title: Welcome to Quartz
 created: 2026-11-25T00:44:04.269Z
-modified: 2026-11-25T01:11:07.448Z
+modified: 2026-11-25T19:42:37.527Z
 ---
 
 sgdsgdsgds
