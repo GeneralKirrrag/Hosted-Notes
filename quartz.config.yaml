@@ -250,7 +250,7 @@ plugins:
       exportPadding: 20
     order: 50
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: Cupertino
       mode: both
