@@ -197,7 +197,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options: {}
@@ -251,9 +251,9 @@ plugins:
     order: 50
   - source:
       name: quartz-themes
-      repo: "https://github.com/saberzero1/quartz-themes.git"
+      repo: https://github.com/saberzero1/quartz-themes.git
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: tokyo-night
       mode: both

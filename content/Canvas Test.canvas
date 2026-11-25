@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4c5cfb4e028bc46e","x":46,"y":19,"width":250,"height":60,"type":"text","text":"Card 2: Electric Boogaloo"},
+		{"id":"e0df70c69a8ccb67","x":-320,"y":-60,"width":250,"height":60,"type":"text","text":"Card"}
+	],
+	"edges":[
+		{"id":"66d32edb4d10b4a8","fromNode":"e0df70c69a8ccb67","fromSide":"right","toNode":"4c5cfb4e028bc46e","toSide":"left"}
+	]
+}

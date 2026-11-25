@@ -1,6 +1,5 @@
 ---
 title: Test Note
-draft: false
-tags:
 ---
-Hopefully this works!!
+![[Canvas Drawing.light.svg]]
+![[Canvas Drawing]]
