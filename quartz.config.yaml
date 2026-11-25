@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Garrik's Blueprints To Greatness
+  pageTitle: Garrik's Blueprints
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -248,7 +248,6 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
-    order: 50
   - source:
       name: quartz-themes
       repo: https://github.com/saberzero1/quartz-themes.git
